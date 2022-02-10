@@ -27,5 +27,5 @@ jieba关键词分析，TF-IDF、TextRank
 
 ---
 ## 词云效果
-![双减政策](test.png)  
+![test](.\test.png)  
 
