@@ -13,7 +13,19 @@ jieba关键词分析，TF-IDF、TextRank
 # 句子级情感分析
 因需求粒度不大，借助百度aip情感分析，进行三分类。个人开发者测试，可免费调用，限制单日单功能调用次数50万次，限制每秒请求2次。  
 > https://ai.baidu.com/tech/nlp_apply/sentiment_classify
-在远端创建应用之后，可获取AppID、API Key、Secret Key，对应填入即可使用  
+  
+  在远端创建应用之后，可获取**AppID、API Key、Secret Key**，对应填入即可使用  
+
+# 使用
+将爬取的数据文件，放入根目录，对应修改run.py文件路径  
+
 
 # To Do
 * 可对数据标注aspect，构建模型训练分析
+
+
+
+---
+## 词云效果
+![双减政策](test.png)  
+
